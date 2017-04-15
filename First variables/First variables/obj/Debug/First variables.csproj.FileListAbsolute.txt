@@ -1,0 +1,6 @@
+D:\c#\visualcodes test github\First variables\First variables\bin\Debug\First variables.exe.config
+D:\c#\visualcodes test github\First variables\First variables\obj\Debug\First variables.csprojResolveAssemblyReference.cache
+D:\c#\visualcodes test github\First variables\First variables\bin\Debug\First variables.exe
+D:\c#\visualcodes test github\First variables\First variables\bin\Debug\First variables.pdb
+D:\c#\visualcodes test github\First variables\First variables\obj\Debug\First variables.exe
+D:\c#\visualcodes test github\First variables\First variables\obj\Debug\First variables.pdb
