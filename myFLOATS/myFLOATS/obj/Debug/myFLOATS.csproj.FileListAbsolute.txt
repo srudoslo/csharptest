@@ -1,0 +1,6 @@
+D:\c#\Float\myFLOATS\myFLOATS\bin\Debug\myFLOATS.exe.config
+D:\c#\Float\myFLOATS\myFLOATS\obj\Debug\myFLOATS.csprojResolveAssemblyReference.cache
+D:\c#\Float\myFLOATS\myFLOATS\bin\Debug\myFLOATS.exe
+D:\c#\Float\myFLOATS\myFLOATS\bin\Debug\myFLOATS.pdb
+D:\c#\Float\myFLOATS\myFLOATS\obj\Debug\myFLOATS.exe
+D:\c#\Float\myFLOATS\myFLOATS\obj\Debug\myFLOATS.pdb
