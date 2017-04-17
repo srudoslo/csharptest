@@ -1,0 +1,6 @@
+D:\c#\Float\Charecter\literal character\literal character\bin\Debug\literal character.exe.config
+D:\c#\Float\Charecter\literal character\literal character\bin\Debug\literal character.exe
+D:\c#\Float\Charecter\literal character\literal character\bin\Debug\literal character.pdb
+D:\c#\Float\Charecter\literal character\literal character\obj\Debug\literal character.csprojResolveAssemblyReference.cache
+D:\c#\Float\Charecter\literal character\literal character\obj\Debug\literal character.exe
+D:\c#\Float\Charecter\literal character\literal character\obj\Debug\literal character.pdb
