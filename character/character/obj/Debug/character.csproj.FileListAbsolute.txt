@@ -1,0 +1,5 @@
+D:\c#\Float\Charecter\character\character\bin\Debug\character.exe.config
+D:\c#\Float\Charecter\character\character\bin\Debug\character.exe
+D:\c#\Float\Charecter\character\character\bin\Debug\character.pdb
+D:\c#\Float\Charecter\character\character\obj\Debug\character.exe
+D:\c#\Float\Charecter\character\character\obj\Debug\character.pdb
